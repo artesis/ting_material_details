@@ -55,7 +55,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '38',
+          'weight' => '34',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -81,7 +81,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '38',
+        'weight' => 38,
       ),
     ),
   );
@@ -131,7 +131,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '37',
+          'weight' => '33',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -157,7 +157,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '37',
+        'weight' => 37,
       ),
     ),
   );
@@ -207,7 +207,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '21',
+          'weight' => '17',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -233,7 +233,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '21',
+        'weight' => 21,
       ),
     ),
   );
@@ -283,7 +283,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '23',
+          'weight' => '19',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -309,7 +309,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '23',
+        'weight' => 23,
       ),
     ),
   );
@@ -359,7 +359,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '27',
+          'weight' => '23',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -385,7 +385,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '27',
+        'weight' => 27,
       ),
     ),
   );
@@ -435,7 +435,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '34',
+          'weight' => '30',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -461,7 +461,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '34',
+        'weight' => 34,
       ),
     ),
   );
@@ -511,7 +511,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '14',
+          'weight' => '10',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -537,7 +537,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '14',
+        'weight' => 14,
       ),
     ),
   );
@@ -587,7 +587,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '19',
+          'weight' => '15',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -613,7 +613,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '19',
+        'weight' => 19,
       ),
     ),
   );
@@ -663,7 +663,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '31',
+          'weight' => '27',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -689,7 +689,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '31',
+        'weight' => 31,
       ),
     ),
   );
@@ -739,7 +739,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '15',
+          'weight' => '11',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -765,7 +765,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '15',
+        'weight' => 15,
       ),
     ),
   );
@@ -815,7 +815,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '16',
+          'weight' => '12',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -841,7 +841,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '16',
+        'weight' => 16,
       ),
     ),
   );
@@ -891,7 +891,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '24',
+          'weight' => '20',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -917,7 +917,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '24',
+        'weight' => 24,
       ),
     ),
   );
@@ -933,9 +933,7 @@ function ting_material_details_field_default_fields() {
       'foreign keys' => array(),
       'indexes' => array(),
       'module' => 'ting_material_details',
-      'settings' => array(
-        'profile2_private' => FALSE,
-      ),
+      'settings' => array(),
       'storage' => array(
         'active' => '1',
         'module' => 'blackhole',
@@ -969,7 +967,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '39',
+          'weight' => '35',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -986,17 +984,16 @@ function ting_material_details_field_default_fields() {
       ),
       'entity_type' => 'ting_object',
       'field_name' => 'ting_details_pegi',
-      'label' => 'Pegi mark',
-      'required' => 0,
+      'label' => 'Pegi',
+      'required' => FALSE,
       'settings' => array(
         'user_register_form' => FALSE,
       ),
       'widget' => array(
-        'active' => 0,
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '38',
+        'weight' => 39,
       ),
     ),
   );
@@ -1046,7 +1043,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '35',
+          'weight' => '31',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1072,7 +1069,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '35',
+        'weight' => 35,
       ),
     ),
   );
@@ -1122,7 +1119,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '26',
+          'weight' => '22',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1148,7 +1145,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '26',
+        'weight' => 26,
       ),
     ),
   );
@@ -1198,7 +1195,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '30',
+          'weight' => '26',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1224,7 +1221,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '30',
+        'weight' => 30,
       ),
     ),
   );
@@ -1274,7 +1271,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '29',
+          'weight' => '25',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1300,7 +1297,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '29',
+        'weight' => 29,
       ),
     ),
   );
@@ -1350,7 +1347,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '36',
+          'weight' => '32',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1376,7 +1373,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '36',
+        'weight' => 36,
       ),
     ),
   );
@@ -1426,7 +1423,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '28',
+          'weight' => '24',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1452,7 +1449,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '28',
+        'weight' => 28,
       ),
     ),
   );
@@ -1502,7 +1499,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '22',
+          'weight' => '18',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1528,7 +1525,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '22',
+        'weight' => 22,
       ),
     ),
   );
@@ -1578,7 +1575,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '17',
+          'weight' => '13',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1604,7 +1601,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '17',
+        'weight' => 17,
       ),
     ),
   );
@@ -1654,7 +1651,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '20',
+          'weight' => '16',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1680,7 +1677,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '20',
+        'weight' => 20,
       ),
     ),
   );
@@ -1730,7 +1727,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '18',
+          'weight' => '14',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1756,7 +1753,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '18',
+        'weight' => 18,
       ),
     ),
   );
@@ -1806,7 +1803,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '25',
+          'weight' => '21',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1832,7 +1829,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '25',
+        'weight' => 25,
       ),
     ),
   );
@@ -1882,7 +1879,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '13',
+          'weight' => '9',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1908,7 +1905,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '13',
+        'weight' => 13,
       ),
     ),
   );
@@ -1958,7 +1955,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '32',
+          'weight' => '28',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -1984,7 +1981,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '32',
+        'weight' => 32,
       ),
     ),
   );
@@ -2034,7 +2031,7 @@ function ting_material_details_field_default_fields() {
           'module' => 'ting_material_details',
           'settings' => array(),
           'type' => 'ting_details_single',
-          'weight' => '33',
+          'weight' => '29',
         ),
         'teaser' => array(
           'label' => 'above',
@@ -2060,7 +2057,7 @@ function ting_material_details_field_default_fields() {
         'module' => 'blackhole',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => '33',
+        'weight' => 33,
       ),
     ),
   );
@@ -2083,7 +2080,7 @@ function ting_material_details_field_default_fields() {
   t('Later title');
   t('Musician');
   t('Original title');
-  t('Pegi mark');
+  t('Pegi');
   t('Previous title');
   t('Publisher');
   t('Referenced by');
