@@ -304,7 +304,8 @@ function ting_material_details_record_info() {
   $ret['ting_details_musician'] = array('dc:contributor'=>'dkdcplus:mus');
   $ret['ting_details_tracks'] = array('dcterms:hasPart'=>'dkdcplus:track');
   $ret['ting_details_referenced'] = array('dcterms:isReferencedBy');
-  $ret['ting_details_description'] = array('dc:description'=>'dkdcplus:series');
+  //  $ret['ting_details_description'] = array('dc:description'=>'dkdcplus:series');
+  $ret['ting_details_description'] = array('dc:description');
   $ret['ting_details_source'] = array('dc:source');
   $ret['ting_details_replaces'] = array('dcterms:replaces');
   $ret['ting_details_replaced_by'] = array('dcterms:replacedBy');
