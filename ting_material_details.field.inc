@@ -382,8 +382,17 @@ function ting_material_details_field_formatter_view($entity_type, $entity, $fiel
     if ($val = ting_material_details_get_record_value($field['type'], $entity)) {
       switch ($display['type']) {
         case 'ting_details_single':
+          $details = '';
+          if (is_array($val)) {
+            foreach ($val as $detail) {
+              $details .= '<span class="ting-material-detail">' . $detail . '</span>';
+            }
+          }
+          else {
+            $details = $val;
+          }
           $element[$delta] = array(
-            '#markup' => is_array($val) ? implode(', ', $val) : $val,
+            '#markup' => $details,
           );
           break;
         case 'ting_details_creator_search':
